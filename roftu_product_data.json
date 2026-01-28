@@ -1,0 +1,402 @@
+{
+  "products": [
+    {
+      "category": "Footwear - Basketball",
+      "items": [
+        {
+          "name": "Nebula Net",
+          "filename": "RoftU_BballSneaker_NebulaNet_001.png",
+          "description": "Built for explosive guards who live above the rim, Nebula Net wraps your foot in a lightweight upper that moves as fast as you do. Responsive cushioning underfoot turns hard landings into soft rebounces so you can attack the lane, quarter after quarter. Feel locked-in, fearless, and always ready for the next highlight."
+        },
+        {
+          "name": "Orbit Jump",
+          "filename": "RoftU_BballSneaker_OrbitJump_001.png",
+          "description": "Orbit Jump is for jumpers who want to own the air, not just visit it. A spring-loaded midsole and stabilizing sidewalls give you the lift to rise higher and the control to land with confidence. Take off, hang, and come down knowing the court is yours."
+        },
+        {
+          "name": "SuperNova Burst",
+          "filename": "RoftU_BballSneaker_SuperNovaBurst_001.png",
+          "description": "SuperNova Burst is built for scorers who can flip a game in a single run. High-energy foam returns every ounce of effort, while a grippy outsole lets you stop, plant, and change direction on a dime. Light up the scoreboard and feel that surge with every step."
+        },
+        {
+          "name": "White Dwarf",
+          "filename": "RoftU_BballSneaker_WhiteDwarf_001.png",
+          "description": "White Dwarf is for players who do the dirty work and dominate the details. A low-profile, ultra-stable base keeps you grounded on defense, while cushioned support softens the pounding of every possession. Quiet look, ruthless performance."
+        }
+      ]
+    },
+    {
+      "category": "Footwear - Running",
+      "items": [
+        {
+          "name": "Cosmic Dash",
+          "filename": "RoftU_RunnerShoe_CosmicDash_001.png",
+          "description": "Cosmic Dash is made for everyday runners who want to turn routine miles into mini missions. A cushioned yet responsive midsole propels you forward, while breathable materials keep your feet cool from first stride to last. Lace up and let every run feel like a fast orbit."
+        },
+        {
+          "name": "Galaxy Stride",
+          "filename": "RoftU_RunnerShoe_GalaxyStride_001.png",
+          "description": "Galaxy Stride is for distance runners chasing new horizons. Smooth-rolling geometry and targeted cushioning reduce impact so you can settle into an effortless rhythm. Glide through long runs feeling supported, steady, and unshakably focused."
+        },
+        {
+          "name": "Nova Glide",
+          "filename": "RoftU_RunnerShoe_NovaGlide_001.png",
+          "description": "Nova Glide is built for speed sessions and race days where every second matters. Lightweight construction and a snappy forefoot help you accelerate with less effort, while secure lockdown keeps you confident at pace. Feel that “push” with every toe-off."
+        }
+      ]
+    },
+    {
+      "category": "Footwear - Soccer",
+      "items": [
+        {
+          "name": "Aztec Bloom",
+          "filename": "RoftU_SoccerCleats_AztecBloom_001.png",
+          "description": "Aztec Bloom is for creative playmakers who paint the pitch with passes and flair. A textured upper amplifies touch and control, while a snug fit keeps you connected to the ball at full speed. Turn tight spaces into your personal canvas."
+        },
+        {
+          "name": "Curacao Wave",
+          "filename": "RoftU_SoccerCleats_CuracaoWave_001.png",
+          "description": "Curacao Wave is built for wingers and fullbacks who live on the edge of the pitch. A streamlined, supportive fit lets you explode down the sideline, while aggressive traction keeps you slicing through cuts and changes of direction. Ride the wave and never ease off."
+        },
+        {
+          "name": "Dutch Lion",
+          "filename": "RoftU_SoccerCleats_DutchLion_001.png",
+          "description": "Dutch Lion is for captains and leaders who command the game from box to box. A balanced plate and locked-in chassis give you both stability and agility, so you can tackle, distribute, and finish with equal confidence. Step on in and let your presence roar."
+        },
+        {
+          "name": "Stars And Stripes",
+          "filename": "RoftU_SoccerCleats_StarsAndStripes_001.png",
+          "description": "Stars And Stripes is made for players who thrive under pressure and love big moments. A firm-ground outsole delivers reliable grip when the stakes are highest, while a responsive upper keeps your first touch sharp. Play bold, play fearless, and carry your team forward."
+        }
+      ]
+    },
+    {
+      "category": "Apparel - Tops (Male)",
+      "items": [
+        {
+          "name": "Atomic Duo Tee",
+          "filename": "RoftU_Tops_AtomicDuoTee_001.png",
+          "description": "Atomic Duo Tee is for athletes who go from training ground to street without missing a beat. Ultra-soft, sweat-wicking fabric keeps you cool in motion, while a sharp two-tone design brings energy to any look. Train hard, step out, and feel switched on all day."
+        },
+        {
+          "name": "Command Universe Tee",
+          "filename": "RoftU_Tops_CommandUniverseTee_001.png",
+          "description": "Command Universe Tee is built for those who lead the session, not follow it. Lightweight stretch fabric moves with you through every rep, while bold graphics mirror your take-over energy. Throw it on and set the tone wherever you train."
+        },
+        {
+          "name": "Cosmic Flow Tee",
+          "filename": "RoftU_Tops_CosmicFlowTee_001.png",
+          "description": "Cosmic Flow Tee is for runners and lifters who love that in-the-zone feeling. Breathable panels and seamless comfort let you move without distraction, so you can stay locked into your rhythm. Feel the flow from warm-up to cooldown."
+        },
+        {
+          "name": "Own The Universe Tee",
+          "filename": "RoftU_Tops_OwnTheUniverseTee_001.png",
+          "description": "Own The Universe Tee is made for athletes who refuse to play small. High-performance fabric keeps you dry under pressure, while the statement graphic reminds you that the game bends to your will. Pull it on and step into every session like it’s yours."
+        },
+        {
+          "name": "Universe Text Tee",
+          "filename": "RoftU_Tops_UniverseTextTee_001.png",
+          "description": "Universe Text Tee is for minimalists who still want a quiet flex. Soft, everyday-ready cotton blend delivers all-day comfort, while the clean typography nods to big ambitions. Perfect for rest days, warm-ups, and everything between."
+        },
+        {
+          "name": "Curacao Tsunami",
+          "filename": "RoftU_Tops_CuracaoTsunami_001.png",
+          "description": "Curacao Tsunami is designed for fans and players who bring island energy to every match. Lightweight, breathable jersey fabric keeps you cool when the tempo rises, and the bold design captures the motion of waves in full attack. Wear it and feel like a storm on the pitch."
+        }
+      ]
+    },
+    {
+      "category": "Apparel - Bottoms (Male)",
+      "items": [
+        {
+          "name": "Gravity Lock Tights",
+          "filename": "RoftU_Bottoms_GravityLockTights_001.png",
+          "description": "Gravity Lock Tights are for athletes who want every muscle supported and ready to fire. Targeted compression stabilizes key zones, while flexible fabric lets you move freely through sprints, lifts, and drills. Lock in, power up, and feel every stride snap."
+        },
+        {
+          "name": "Interstellar Track",
+          "filename": "RoftU_Bottoms_InterstellarTrack_001.png",
+          "description": "Interstellar Track pants are built for pre-game, post-game, and everything in between. A tapered fit and lightweight warmth make them perfect for travel and warm-ups, while zip hems let you switch from locked in to laid back in seconds. Move through your day in orbit-level comfort."
+        },
+        {
+          "name": "Orbit Lounge Jogger",
+          "filename": "RoftU_Bottoms_OrbitLounge_001.png",
+          "description": "Orbit Lounge Jogger is for recovery days that still demand style. Soft, brushed fabric wraps you in comfort, while a modern, athletic cut keeps your silhouette sharp. Perfect for stretching, strolling, or just recharging in your own space."
+        },
+        {
+          "name": "Velocity Split Short",
+          "filename": "RoftU_Bottoms_VelocitySplitShort_001.png",
+          "description": "Velocity Split Short is designed for runners chasing faster splits and freer movement. Lightweight, quick-dry fabric and a side split hem give you maximum range of motion with minimal weight. Throw them on and let your legs do what they were built to do."
+        },
+        {
+          "name": "Void Stride Short",
+          "filename": "RoftU_Bottoms_VoidStride_001.png",
+          "description": "Void Stride Short is for high-intensity training where distractions aren’t allowed. A secure waistband and breathable, no-cling fabric keep everything in place as you jump, cut, and sprint. Step into the void, focus on the work, and forget the rest."
+        }
+      ]
+    },
+    {
+      "category": "Apparel - Outerwear",
+      "items": [
+        {
+          "name": "Celestial Windbreaker",
+          "filename": "RoftU_Outerwear_CelestialWindbreaker_001.png",
+          "description": "Celestial Windbreaker is for runners and commuters who don’t wait for perfect weather. Wind-resistant, lightweight fabric shields you from gusts, while vented zones prevent overheating on the move. Zip it up and cut through the elements like they’re nothing."
+        },
+        {
+          "name": "Cosmic Trail Jacket",
+          "filename": "RoftU_Outerwear_CosmicTrailJacket_001.png",
+          "description": "Cosmic Trail Jacket is built for explorers who chase elevation and dirt paths. Durable, water-repellent fabric and strategic pockets keep you ready for sudden shifts in weather and terrain. Stay dry, stay warm, and keep pushing until the trail runs out."
+        },
+        {
+          "name": "Gravity Hoodie",
+          "filename": "RoftU_Outerwear_GravityHoodie_001.png",
+          "description": "Gravity Hoodie is for athletes who want comfort with a competitive edge. Plush interior warmth meets a streamlined, performance-ready fit you can wear to the gym or on the streets. Pull it over and feel grounded, calm, and ready to grind."
+        },
+        {
+          "name": "Nebula Vest",
+          "filename": "RoftU_Outerwear_NebulaVest_001.png",
+          "description": "Nebula Vest is designed for layering when the air turns cold but you still want freedom to move. Lightweight insulation keeps your core warm, while open arms let you sprint, lift, and stretch without restriction. Toss it on and stay in your perfect training climate."
+        }
+      ]
+    },
+    {
+      "category": "Accessories - Bags",
+      "items": [
+        {
+          "name": "Cosmic Carryall Duffle",
+          "filename": "RoftU_Bag_CosmicCarryall_001.png",
+          "description": "Cosmic Carryall Duffle is for athletes who bring their whole routine with them. A spacious main compartment and smart internal pockets keep your gear organized from shoes to shaker. Grab it, zip it, and roll into every session feeling dialed in."
+        },
+        {
+          "name": "Gravity Gear Backpack",
+          "filename": "RoftU_Bag_GravityGearBackpack_001.png",
+          "description": "Gravity Gear Backpack is built for daily grinders balancing training, work, and life. Padded straps and a structured back panel keep it comfortable, while dedicated compartments protect your tech and your kit. Load it up and feel supported from door to door."
+        },
+        {
+          "name": "Supernova Sling Pack",
+          "filename": "RoftU_Bag_SupernovaSling_001.png",
+          "description": "Supernova Sling Pack is for minimalists who still move fast. A compact, cross-body design keeps essentials close and secure, while easy-access zips let you grab what you need without breaking stride. Perfect for quick sessions, city rides, and light travel."
+        },
+        {
+          "name": "Voyager Waist Pack",
+          "filename": "RoftU_Bag_VoyagerWaistPack_001.png",
+          "description": "Voyager Waist Pack is made for runners, hikers, and travelers who hate bulky pockets. Adjustable, low-bounce construction sits comfortably at your hip, holding keys, phone, and gels securely. Strap in and roam hands-free."
+        }
+      ]
+    },
+    {
+      "category": "Accessories - Health Tech",
+      "items": [
+        {
+          "name": "Aura Tracker",
+          "filename": "RoftU_HealthTech_AuraTracker_001.png",
+          "description": "Aura Tracker is for athletes who want to feel their progress, not just see it. It monitors key metrics like heart rate, steps, and recovery, then translates them into simple insights you can act on. Wear it daily and turn data into an unstoppable rhythm."
+        },
+        {
+          "name": "Cosmos Chronos",
+          "filename": "RoftU_HealthTech_CosmosChronos_001.png",
+          "description": "Cosmos Chronos is built for those who treat time as their most powerful training tool. With multi-sport tracking, interval timers, and sleep insights, it keeps your whole performance cycle in view. Strap it on and turn every second into an advantage."
+        }
+      ]
+    },
+    {
+      "category": "Accessories - Small Gear",
+      "items": [
+        {
+          "name": "Galactic Shaker Bottle",
+          "filename": "RoftU_SmallGear_GalacticShaker_001.png",
+          "description": "Galactic Shaker Bottle is for lifters and hustlers who need smooth fuel on demand. An integrated mixer breaks down powders effortlessly, while leak-resistant construction survives the bottom of any gym bag. Fill it, shake it, and power your next set."
+        },
+        {
+          "name": "Gravity Resistance Bands",
+          "filename": "RoftU_SmallGear_GravityBands_001.png",
+          "description": "Gravity Resistance Bands are for athletes who want a full gym they can toss in a backpack. Multiple resistance levels let you scale strength, mobility, and activation work wherever you are. Loop in, feel the tension, and build power against your own orbit."
+        }
+      ]
+    },
+    {
+      "category": "Accessories - Eyewear",
+      "items": [
+        {
+          "name": "Champion Visor Shades",
+          "filename": "RoftU_Eyewear_ChampionVisor_001.png",
+          "description": "Champion Visor Shades are for competitors who play under bright lights and blazing sun. A wraparound shield design maximizes coverage and reduces glare so you can lock in on the ball, not the brightness. Slide them on and step into game mode."
+        },
+        {
+          "name": "Fairway Optics",
+          "filename": "RoftU_Eyewear_FairwayOptics_001.png",
+          "description": "Fairway Optics are built for golfers who read every contour and color of the course. Precision lenses enhance contrast and clarity so you can track your ball and judge distance with confidence. Wear them from first tee to final putt and stay in clear focus."
+        },
+        {
+          "name": "Orbit Shades",
+          "filename": "RoftU_Eyewear_OrbitShades_001.png",
+          "description": "Orbit Shades are for everyday athletes who want performance and style in one frame. Lightweight construction and grippy nose pads keep them secure during runs, rides, and city missions. Throw them on and move through your day with effortless cool."
+        },
+        {
+          "name": "Solar Flare Aviators",
+          "filename": "RoftU_Eyewear_SolarFlareAviators_001.png",
+          "description": "Solar Flare Aviators are for those who like their look loud and their vision sharp. High-clarity lenses and a bold aviator silhouette protect your eyes while turning heads on and off the field. Step outside and let your presence blaze."
+        },
+        {
+          "name": "Starlight Wayfarers",
+          "filename": "RoftU_Eyewear_StarlightWayfarers_001.png",
+          "description": "Starlight Wayfarers are for athletes who carry a classic vibe everywhere they go. Impact-resistant lenses and a timeless frame give you reliable protection during light sessions, commutes, and off-duty hangs. Put them on and keep your style in steady orbit."
+        }
+      ]
+    },
+    {
+      "category": "One-Piece",
+      "items": [
+        {
+          "name": "Scult Unitard",
+          "sex":"female",
+          "filename": "ST_WA-001_SCULPT_UNITARD_ONYX_F.jpg",
+          "description": "Seamless compression unitard with square neckline, sculpt-knit zones, and subtle violet stitch detailing for a clean luxury finish.",
+          "color": "Onyx Black"
+        },
+        {
+          "name": "Studio Jumpsuit",
+          "sex":"female",
+          "filename": "ST_WA-006_STUDIO_JUMPSUIT_SAGE_F.jpg",
+          "description": "Women’s sleeveless studio jumpsuit in soft stretch knit with scoop neckline, body-contouring fit, and full-length tapered legs for a clean, minimal silhouette.",
+          "color": "Sage Green"
+        }
+      ]
+    },
+    {
+      "category": "Hoodie",
+      "items": [
+         {
+          "name": "Hoodie",
+          "sex":"female",
+          "filename": "ST_UA-001_WRAP_HOODIE_DEEPPLUM_U.jpg",
+          "description": "Lightweight unisex wrap hoodie with a cropped wrap-front silhouette, clean hood shape, and hidden side pockets. Designed to layer over fitted pieces without bulk—studio-to-street ready.",
+          "color": "Deep Plum"
+        },
+        {
+          "name": "Zip Hoodie",
+          "sex":"female",
+          "filename": "ST_WA-007_ZIP_HOODIE_TAUPE_F.jpg",
+          "description": "Women’s zip hoodie in soft midweight fleece with clean hood shape, full-length zipper, rib cuffs/hem, and kangaroo pockets—easy layer for studio-to-street.",
+          "color": "Taupe"
+        }
+      ]
+    },
+    {
+      "category": "Footwear",
+      "items": [
+        {
+          "name": "Apex High-Top Trainer",
+          "sex":"female",
+          "filename": "ST_FW-001_APEX_HIGHTOP_WHITEPLUM_U.jpg",
+          "description": "Premium high-top trainer with smooth leather panels, cushioned collar, and subtle plum knit detailing for a clean studio-to-street finish.",
+          "color": "White / Plum"
+        },
+        {
+          "name": "Court Sneaker",
+          "sex":"female",
+          "filename": "ST_FW-005_COURT_SNEAKER_IVORYSAND_F.jpg",
+          "description": "Women’s low-top court sneaker with smooth leather upper, soft suede heel detail, and cushioned rubber sole—clean, minimal, and made to pair with the CourtFlow dress.",
+          "color": "Ivory / Sand (white with beige accents)"
+        },
+        {
+          "name": "Low-Profile Sneaker",
+          "sex":"female",
+          "filename": "ST_WA-008_LOWPROFILE_SNEAKER_SAGE_F.jpg",
+          "description": "Women’s low-profile sneaker with soft knit upper, clean lace system, and cushioned neutral sole—minimal, lightweight, and made to match studio sets.",
+          "color": "Sage Green / Off-White"
+        },
+        {
+          "name": "Horsebit Loafer",
+          "sex":"female",
+          "filename": "ST_FW-006_HORSEBIT_LOAFER_IVORYGOLD_F.jpg",
+          "description": "Women’s premium leather loafer with polished gold horsebit hardware, clean apron-toe stitching, cushioned footbed, and a low block heel—sharp, luxe, and perfect to elevate the long-sleeve + midi skirt look.",
+          "color": " Ivory / Gold (black sole)"
+        }
+      ]
+    },
+    {
+      "category": "Bag / Accessories",
+      "items": [
+        {
+          "name": "Micro Belt Bag",
+          "sex":"female",
+          "filename": "ST_AC-001_MICRO_BELTBAG_ONYX_F.jpg",
+          "description": "Women’s compact matte-nylon belt bag with structured shape, secure zip compartment, adjustable strap, and subtle violet-accent pull tab—clean, minimal, and studio-to-street ready.",
+          "color": "Onyx Black (violet accent)"
+        },
+        {
+          "name": "Crossbody Bag",
+          "sex":"female",
+          "filename": "ST_WA-009_CROSSBODY_BAG_SAGE_F.jpg",
+          "description": "Women’s compact crossbody bag with structured flap, front zip pocket, adjustable strap, and a subtle violet pull-tab accent—minimal storage for studio-to-street days.",
+          "color": "Sage Green (violet accent)"
+        },
+        {
+          "name": "Court Mini Crossbody",
+          "sex":"female",
+          "filename": "ST_AC-004_COURT_CROSSBODY_SAGE_F.jpg",
+          "description": "Women’s mini crossbody in smooth matte faux leather with a fold-over flap, secure concealed closure, and front zip pocket—clean, structured, and perfect with the CourtFlow dress.",
+          "color": "Sage Green"
+        },
+        {
+          "name": "City Crossbody Bag",
+          "sex":"female",
+          "filename": "ST_AC-005_CITY_CROSSBODY_ONYX_F.jpg",
+          "description": "Women’s minimal crossbody in smooth matte faux leather with fold-over flap, front zip pocket, and adjustable strap—clean finish that elevates the long-sleeve + midi skirt look.",
+          "color": "Onyx Black"
+        },
+        {
+          "name": "Court Visor",
+          "sex":"female",
+          "filename": "ST_AC-003_COURT_VISOR_IVORY_F.jpg",
+          "description": "Women’s structured visor with clean matte finish, moisture-wicking inner band, and adjustable back closure—minimal court-to-street styling piece.",
+          "color": "Ivory (soft white)"
+        }
+      ]
+    },
+    {
+      "category": "Dress",
+      "items": [
+         {
+          "name": "CourtFlow Tennis Dress",
+          "sex":"female",
+          "filename": "ST_WA-010_COURTFLOW_TENNIS_DRESS_IVORY_F.jpg",
+          "description": "Women’s tennis dress with built-in shorts, supportive scoop neckline, and clean contour seams for a sleek court-to-street silhouette.",
+          "color": "Ivory"
+        }
+      ]
+    },
+    {
+      "category": "Top",
+      "items": [
+         {
+          "name": "Second-Skin Long Sleeve",
+          "sex":"female",
+          "filename": "ST_WA-011_SECOND_SKIN_LS_TOP_ONYX_F.jpg",
+          "description": " Women’s fitted long-sleeve crewneck in smooth stretch knit with a clean neckline, refined cuffs, and a minimal silhouette built for layering and everyday wear.",
+          "color": "Onyx Black"
+        }
+      ]
+    },
+    {
+      "category": "Skirt",
+      "items": [
+         {
+          "name": "Contour Midi Skirt",
+          "sex":"female",
+          "filename": "ST_WA-012_CONTOUR_MIDI_SKIRT_SAND_F.jpg",
+          "description": "Women’s high-rise midi skirt in smooth stretch fabric with clean vertical seam lines and a minimal front slit—polished silhouette that pairs effortlessly with fitted tops.",
+          "color": "Sand (beige)"
+        }
+      ]
+    }
+
+  ],
+  "uncategorized_or_placeholder": [
+    "file_names.txt",
+    "Gemini_Generated_Image_1d72p1d72p1d72p1.png",
+    "Gemini_Generated_Image_tq3sa4tq3sa4tq3s.png"
+  ]
+}

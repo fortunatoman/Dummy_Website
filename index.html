@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RoftU - Performance Athletic Gear</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="logo">
+            <h1>RoftU</h1>
+            <p>Performance Athletic Gear</p>
+        </div>
+        
+        <nav class="nav-menu">
+            <ul>
+                <li><a href="#" class="active">Shop</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">FAQ</a></li>
+                <li><a href="#">Gift Card</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+        
+        <div class="header-actions">
+            <div class="search-bar">
+                <i class="fas fa-search"></i>
+                <input type="text" placeholder="Search" id="searchInput">
+            </div>
+            <button class="login-btn">
+                <i class="fas fa-user-circle"></i>
+                Log In
+            </button>
+            <div class="cart-icon" id="cartIcon">
+                <i class="fas fa-shopping-bag"></i>
+                <span class="cart-count" id="cartCount">0</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Social Media Sidebar -->
+    <div class="social-sidebar">
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-pinterest-p"></i></a>
+    </div>
+
+    <!-- Main Category Filter (Parent Categories) -->
+    <div class="main-category-filter">
+        <h3>Shop by Category</h3>
+        <div class="main-category-buttons" id="mainCategoryButtons">
+            <!-- Main categories will be loaded dynamically -->
+            <button class="main-category-btn active" data-main-category="All">
+                <i class="fas fa-th-large"></i>
+                <span>All Products</span>
+            </button>
+        </div>
+    </div>
+
+    <!-- Sub-Category Filter -->
+    <div class="sub-category-filter" id="subCategoryFilter">
+        <div class="sub-category-buttons" id="subCategoryButtons">
+            <!-- Sub-categories will be loaded dynamically -->
+        </div>
+    </div>
+
+    <!-- Category Dropdown (Alternative for Mobile) -->
+    <div class="category-dropdown-container">
+        <select id="categoryDropdown" class="category-dropdown">
+            <option value="All">All Categories</option>
+            <!-- Options will be loaded dynamically from JSON -->
+        </select>
+    </div>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="results-header">
+            <p id="resultsCount">Loading products...</p>
+            <div class="sort-options">
+                <label for="sortSelect">Sort by:</label>
+                <select id="sortSelect">
+                    <option value="default">Default</option>
+                    <option value="name-asc">Name (A-Z)</option>
+                    <option value="name-desc">Name (Z-A)</option>
+                    <option value="price-asc">Price (Low to High)</option>
+                    <option value="price-desc">Price (High to Low)</option>
+                </select>
+            </div>
+        </div>
+        
+        <div class="products-grid" id="productsGrid">
+            <!-- Products will be loaded dynamically from JSON -->
+            <div class="loading">
+                <i class="fas fa-spinner fa-spin"></i>
+                <p>Loading products...</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Product Modal -->
+    <div class="product-modal" id="productModal">
+        <div class="modal-content">
+            <span class="close-modal" id="closeModal">&times;</span>
+            <div class="modal-body">
+                <div class="modal-image">
+                    <img src="" alt="" id="modalImage">
+                </div>
+                <div class="modal-details">
+                    <span class="modal-category" id="modalCategory"></span>
+                    <h2 id="modalName"></h2>
+                    <p class="modal-price" id="modalPrice"></p>
+                    <p class="modal-description" id="modalDescription"></p>
+                    <div class="modal-info">
+                        <p><strong>Color:</strong> <span id="modalColor">-</span></p>
+                    </div>
+                    <div class="modal-actions">
+                        <div class="quantity-selector">
+                            <button class="qty-btn" id="qtyMinus">-</button>
+                            <input type="number" value="1" min="1" id="qtyInput">
+                            <button class="qty-btn" id="qtyPlus">+</button>
+                        </div>
+                        <button class="add-to-cart-btn" id="modalAddToCart">Add to Cart</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Cart Drawer -->
+    <div class="cart-drawer" id="cartDrawer">
+        <div class="cart-header">
+            <h3>Your Cart</h3>
+            <span class="close-cart" id="closeCart">&times;</span>
+        </div>
+        <div class="cart-items" id="cartItems">
+            <!-- Cart items will be loaded dynamically -->
+        </div>
+        <div class="cart-footer">
+            <div class="cart-total">
+                <span>Total:</span>
+                <span id="cartTotal">$0.00</span>
+            </div>
+            <button class="checkout-btn">Proceed to Checkout</button>
+        </div>
+    </div>
+
+    <!-- Cart Overlay -->
+    <div class="cart-overlay" id="cartOverlay"></div>
+
+    <!-- Chat Widget -->
+    <div class="chat-widget">
+        <i class="fas fa-comment"></i>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
